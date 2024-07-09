@@ -79,8 +79,9 @@ Here, we are cloning our repo into our local system to check if the code is runn
 npm install
 npm start
 ```
--npm install: This command is used to install all dependencies listed in a project's 
--npm start: This command is typically used to start a project.
+```npm install```: This command is used to install all dependencies listed in a project's 
+
+```npm start```: This command is typically used to start a project.
 
 - **Dockerfile creation**
 ```bash
