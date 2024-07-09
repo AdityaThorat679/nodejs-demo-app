@@ -162,7 +162,7 @@ git push
 GitHub Repo get update 
 
 ## Jenkins pipeline ##
-### Steps and Setup the project ###
+### Setup the pipeline ###
 - **Open Jenkins**  : Go to your browser and search for `localhost:8080`. This is the default port to open Jenkins.
 
 - **Crate New Pipeline**  : Click on New item -> Enter the item name -> select the Pipeline
