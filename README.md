@@ -9,7 +9,7 @@
 ### Below are the article/document Links to install the required tools
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Docker](https://docs.docker.com/engine/install/)
-- [Jenkins]
+- [Jenkins](https://www.jenkins.io/doc/book/installing/)
 
 ### Git
 1. **Version Control**: Tracks changes in your code.
